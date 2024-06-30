@@ -11,3 +11,5 @@ Foi construida essa aplicação para desenvolver habilidades em:
 - Higher-Order functions
 
 Aplicação:
+
+https://vieiraaz.github.io/GitHub-Favorites-Rocketseat/
